@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/rafli-assistant-portfolio/static/css/main.8c223609.css",
+    "main.js": "/rafli-assistant-portfolio/static/js/main.f2546f09.js",
+    "static/css/487.17a9b656.chunk.css": "/rafli-assistant-portfolio/static/css/487.17a9b656.chunk.css",
+    "static/js/487.ea84ee9e.chunk.js": "/rafli-assistant-portfolio/static/js/487.ea84ee9e.chunk.js",
+    "static/css/990.528d3771.chunk.css": "/rafli-assistant-portfolio/static/css/990.528d3771.chunk.css",
+    "static/js/990.567a0b93.chunk.js": "/rafli-assistant-portfolio/static/js/990.567a0b93.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/rafli-assistant-portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/telkomindonesia.png": "/rafli-assistant-portfolio/static/media/telkomindonesia.1816d6c6d3ecf8bfc316.png",
+    "static/media/Agustina.woff": "/rafli-assistant-portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/rafli-assistant-portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/rafli-assistant-portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/rafli-assistant-portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/rafli-assistant-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/rafli-assistant-portfolio/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/rafli-assistant-portfolio/index.html",
+    "static/media/talksCardBack.svg": "/rafli-assistant-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.8c223609.css.map": "/rafli-assistant-portfolio/static/css/main.8c223609.css.map",
+    "main.f2546f09.js.map": "/rafli-assistant-portfolio/static/js/main.f2546f09.js.map",
+    "487.17a9b656.chunk.css.map": "/rafli-assistant-portfolio/static/css/487.17a9b656.chunk.css.map",
+    "487.ea84ee9e.chunk.js.map": "/rafli-assistant-portfolio/static/js/487.ea84ee9e.chunk.js.map",
+    "990.528d3771.chunk.css.map": "/rafli-assistant-portfolio/static/css/990.528d3771.chunk.css.map",
+    "990.567a0b93.chunk.js.map": "/rafli-assistant-portfolio/static/js/990.567a0b93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c223609.css",
+    "static/js/main.f2546f09.js"
+  ]
+}
